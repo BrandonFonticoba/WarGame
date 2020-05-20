@@ -68,7 +68,7 @@ public class Card
                 card+= " of Spades";
                 break;
             case 3:
-                card+= " of Clovers";
+                card+= " of Hearts";
                 break;
             default:
                 break;
