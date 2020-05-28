@@ -1,5 +1,5 @@
 /* 
-Brandon Fonticoba--Deacom HW
+Brandon Fonticoba
 
 Simple class to build a Card object
 with suit and card value
