@@ -1,5 +1,5 @@
 /* 
-Brandon Fonticoba--Deacom HW
+Brandon Fonticoba
 This program simulates the card game of war.
 */
 
